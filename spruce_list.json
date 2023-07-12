@@ -1,0 +1,225 @@
+{
+  "name": "Spruce Tokenlist",
+  "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png",
+  "keywords": [],
+  "timestamp": "2023-07-12T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 424242,
+      "address": "0xA771A8C08F56C351C7dcF5f4e4Fb9f1d702D27C8",
+      "decimals": 18,
+      "name": "Wrapped USDCf",
+      "symbol": "WUSDCf"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x4a0b3e58d56aebfb4988efd28d2d28253526c512",
+      "decimals": 18,
+      "name": "Gold Commodity",
+      "symbol": "GOLD"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x1df49ff57072c4448fece1884c0c1273a09d25e6",
+      "decimals": 18,
+      "name": "Crude Commodity",
+      "symbol": "CRUDE"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x52873553f45b5cc52f87a7d0b9d6c87e3524db49",
+      "decimals": 18,
+      "name": "Copper Commodity",
+      "symbol": "COPPER"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xb9b42558b06fdc25568d32db18a440db2aa7d840",
+      "decimals": 18,
+      "name": "Silver Commodity",
+      "symbol": "SILVER"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x4380deed4f4ba889d777f89ac0d0ecc7d351d36f",
+      "decimals": 18,
+      "name": "USD FX",
+      "symbol": "USD"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x202a515f5b8fc21633dd562ce7d8dce8945393c6",
+      "decimals": 18,
+      "name": "EUR FX",
+      "symbol": "EUR"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xf9b072bb37207680fa141dceea2a8e0d18b462ce",
+      "decimals": 18,
+      "name": "BGP FX",
+      "symbol": "GBP"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x7e8be6bb88c93af989a515fd94acc64452b6d700f",
+      "decimals": 18,
+      "name": "JPY FX",
+      "symbol": "JPY"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xf31ec71aae56fedcb713c62ffdc96ecb1eaf0046",
+      "decimals": 18,
+      "name": "CHF FX",
+      "symbol": "CHF"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xfe8a2b357abc60c43949dd284579dd9e841d69e8",
+      "decimals": 18,
+      "name": "NZD FX",
+      "symbol": "NZD"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x5b4996793028ce070c0e866118a62b638a19e719",
+      "decimals": 18,
+      "name": "AUD FX",
+      "symbol": "AUD"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x9eb0f3584ab4e9f55f262867c0952add4cc837de",
+      "decimals": 18,
+      "name": "CAD FX",
+      "symbol": "CAD"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x068b2efb5e4bea023a1e1c6ca0f7eed288ed847a",
+      "decimals": 18,
+      "name": "CNH FX",
+      "symbol": "CNH"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x2bd94a443b8530fe8316f08b07534130a12ff72b",
+      "decimals": 18,
+      "name": "SGD FX",
+      "symbol": "SGD"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x6c791b0d2f81e9259329d91801c9978a0be186d2",
+      "decimals": 18,
+      "name": "KRW FX",
+      "symbol": "KRW"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x526ad95491060a0ca8c7e881180437a97b0877de",
+      "decimals": 18,
+      "name": "SEK FX",
+      "symbol": "SEK"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xbe675866f7fe03427ad19cfec61ebfdd48ddf295",
+      "decimals": 18,
+      "name": "NOK FX",
+      "symbol": "NOK"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x1b046d0c5c5dc733a42303c26897847a81e23674",
+      "decimals": 18,
+      "name": "MXN FX",
+      "symbol": "MXN"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x2cf23cedeecdaf3f1e61c5dd8d97afb1e9645172",
+      "decimals": 18,
+      "name": "ZAR FX",
+      "symbol": "ZAR"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xc3cce7284d025b3e393369b8f7295fcededfe533",
+      "decimals": 18,
+      "name": "SOFR Rate",
+      "symbol": "SOFR"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x869aa909f0f525c59ee87d966848b45af5082848",
+      "decimals": 18,
+      "name": "SPY Index",
+      "symbol": "SPY"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x5f754c9e411e3082c8e3c5b2a3ff72a8f023ca6d",
+      "decimals": 18,
+      "name": "QQQ Index",
+      "symbol": "QQQ"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x1738b8f87fca6de0b8e3deca6e2a5ed9656790fb",
+      "decimals": 18,
+      "name": "IWM Index",
+      "symbol": "IWM"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x0ff9eb54d1a66d04c82044496ed7a4bf50d70cc4",
+      "decimals": 18,
+      "name": "DIA Index",
+      "symbol": "DIA"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x44e40eefb0bc47e71cce0f3c25d4d4331369dcb9",
+      "decimals": 18,
+      "name": "SPX Index",
+      "symbol": "SPX"
+    },
+    {
+      "chainId": 424242,
+      "address": "0x3a92407dd3781e9400677dd3dd203df739590c5d",
+      "decimals": 18,
+      "name": "EUROSTOXX50 Index",
+      "symbol": "EUROSTOXX50"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xd61e0b1ef1fd29b853ea06313eea952282363ce9",
+      "decimals": 18,
+      "name": "TRY FX",
+      "symbol": "TRY"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xe10aefeaad4af5a1f356a9c37ef5e906f4d6b611",
+      "decimals": 18,
+      "name": "PLN FX",
+      "symbol": "PLN"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xb37d2dfb187f0edefff4ddd0cf1413a06607b984",
+      "decimals": 18,
+      "name": "HUF FX",
+      "symbol": "HUF"
+    },
+    {
+      "chainId": 424242,
+      "address": "0xed079b4cdabb536fba5c6f1c6d798823ccc55530",
+      "decimals": 18,
+      "name": "NASDAQ Index",
+      "symbol": "NASDAQ"
+    }
+  ]
+}
