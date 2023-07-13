@@ -1,7 +1,12 @@
 {
   "name": "Spruce Tokenlist",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png",
-  "keywords": [],
+  "keywords": ["spruce","avalanche","subnet"],
   "timestamp": "2023-07-12T12:00:00+00:00",
   "tokens": [
     {
