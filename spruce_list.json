@@ -75,7 +75,7 @@
     },
     {
       "chainId": 424242,
-      "address": "0x7e8be6bb88c93af989a515fd94acc64452b6d700f",
+      "address": "0x7e8be6bb88c93af989a515fd94acc64452b6d700",
       "decimals": 4,
       "name": "JPY FX",
       "symbol": "JPY",
