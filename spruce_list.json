@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png",
+  "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png",
   "keywords": ["spruce","avalanche","subnet"],
   "timestamp": "2023-07-12T12:00:00+00:00",
   "tokens": [
@@ -15,7 +15,7 @@
       "decimals": 18,
       "name": "Wrapped USDCf",
       "symbol": "WUSDCf",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -23,7 +23,7 @@
       "decimals": 18,
       "name": "Gold Commodity",
       "symbol": "GOLD",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -31,7 +31,7 @@
       "decimals": 18,
       "name": "Crude Commodity",
       "symbol": "CRUDE",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -39,7 +39,7 @@
       "decimals": 18,
       "name": "Copper Commodity",
       "symbol": "COPPER",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -47,7 +47,7 @@
       "decimals": 18,
       "name": "Silver Commodity",
       "symbol": "SILVER",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -55,7 +55,7 @@
       "decimals": 18,
       "name": "USD FX",
       "symbol": "USD",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -63,7 +63,7 @@
       "decimals": 18,
       "name": "EUR FX",
       "symbol": "EUR",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -71,7 +71,7 @@
       "decimals": 18,
       "name": "GBP FX",
       "symbol": "GBP",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -79,7 +79,7 @@
       "decimals": 18,
       "name": "JPY FX",
       "symbol": "JPY",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -87,7 +87,7 @@
       "decimals": 18,
       "name": "CHF FX",
       "symbol": "CHF",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -95,7 +95,7 @@
       "decimals": 18,
       "name": "NZD FX",
       "symbol": "NZD",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -103,7 +103,7 @@
       "decimals": 18,
       "name": "AUD FX",
       "symbol": "AUD",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -111,7 +111,7 @@
       "decimals": 18,
       "name": "CAD FX",
       "symbol": "CAD",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -119,7 +119,7 @@
       "decimals": 18,
       "name": "CNH FX",
       "symbol": "CNH",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -127,7 +127,7 @@
       "decimals": 18,
       "name": "SGD FX",
       "symbol": "SGD",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -135,7 +135,7 @@
       "decimals": 18,
       "name": "KRW FX",
       "symbol": "KRW",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -143,7 +143,7 @@
       "decimals": 18,
       "name": "SEK FX",
       "symbol": "SEK",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -151,7 +151,7 @@
       "decimals": 18,
       "name": "NOK FX",
       "symbol": "NOK",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -159,7 +159,7 @@
       "decimals": 18,
       "name": "MXN FX",
       "symbol": "MXN",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -167,7 +167,7 @@
       "decimals": 18,
       "name": "ZAR FX",
       "symbol": "ZAR",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -175,7 +175,7 @@
       "decimals": 18,
       "name": "SOFR Rate",
       "symbol": "SOFR",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -183,7 +183,7 @@
       "decimals": 18,
       "name": "SPY Index",
       "symbol": "SPY",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -191,7 +191,7 @@
       "decimals": 18,
       "name": "QQQ Index",
       "symbol": "QQQ",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -199,7 +199,7 @@
       "decimals": 18,
       "name": "IWM Index",
       "symbol": "IWM",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -207,7 +207,7 @@
       "decimals": 18,
       "name": "DIA Index",
       "symbol": "DIA",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -215,7 +215,7 @@
       "decimals": 18,
       "name": "SPX Index",
       "symbol": "SPX",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -223,7 +223,7 @@
       "decimals": 18,
       "name": "EUROSTOXX50 Index",
       "symbol": "EUROSTOXX50",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -231,7 +231,7 @@
       "decimals": 18,
       "name": "TRY FX",
       "symbol": "TRY",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -239,7 +239,7 @@
       "decimals": 18,
       "name": "PLN FX",
       "symbol": "PLN",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -247,7 +247,7 @@
       "decimals": 18,
       "name": "HUF FX",
       "symbol": "HUF",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     },
     {
       "chainId": 424242,
@@ -255,7 +255,7 @@
       "decimals": 18,
       "name": "NASDAQ Index",
       "symbol": "NASDAQ",
-      "logoURI": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/43113/token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/spruce-tokens/main/image.png"
     }
   ]
 }
